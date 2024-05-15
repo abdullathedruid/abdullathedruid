@@ -5,8 +5,10 @@ I'm currently working at [Vektor](https://vektor.finance/) as a Smart Contract E
 
 Here are some of the Open Source Projects I've worked on:
 - [Vyper Compiler](https://github.com/vyperlang/vyper/pull/2593) Implementation of Storage Layout Overrides
+- [Rarity Daycare Manager](https://github.com/abdullathedruid/daycare_manager) Extension for the on-chain game Rarity, built by Andre Cronje
+- [Perpetual Protocol Trade History](https://github.com/abdullathedruid/perp_csv) Flask web-app which fetches a user's trading history
 - [Implementing Logarithm Market Scoring Rules using Automated Market Makers](https://docs.just.win/) An implementation based on the research paper by Robin Hanson
-- [Hackathon Project](https://github.com/dpball/supremecourt) Utilising decentralised oracles to enable permissionless deployment of Prediction Markets
+- [Kleros Hackathon Project](https://github.com/dpball/supremecourt) Utilising decentralised oracles to enable permissionless deployment of Prediction Markets
 
 <!--
 **abdullathedruid/abdullathedruid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
