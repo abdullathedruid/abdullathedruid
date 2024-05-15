@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Abdulla
+
+I'm a Software Engineer and Medical Doctor. 
+I'm currently working at [Vektor](https://vektor.finance/) as a Smart Contract Engineer Engineer.
+
+Here are some of the Open Source Projects I've worked on:
+- [Vyper Compiler](https://github.com/vyperlang/vyper/pull/2593) Implementation of Storage Layout Overrides
+- [Implementing Logarithm Market Scoring Rules using Automated Market Makers](https://docs.just.win/) An implementation based on the research paper by Robin Hanson
+- [Hackathon Project](https://github.com/dpball/supremecourt) Utilising decentralised oracles to enable permissionless deployment of Prediction Markets
 
 <!--
 **abdullathedruid/abdullathedruid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
