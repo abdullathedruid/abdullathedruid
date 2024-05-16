@@ -3,6 +3,8 @@
 I'm a Software Engineer and Medical Doctor. 
 I'm currently working at [Vektor](https://vektor.finance/) as a Smart Contract Engineer Engineer.
 
+I occasionally write articles on my [blog](https://abdullathedruid.github.io/).
+
 Here are some of the Open Source Projects I've worked on:
 - [GymLive](https://github.com/abdullathedruid/gym_live) A fitness tracking tool built as a progressive web app
 - [Vyper Compiler](https://github.com/vyperlang/vyper/pull/2593) Implementation of Storage Layout Overrides
