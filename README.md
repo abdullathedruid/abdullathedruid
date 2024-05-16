@@ -4,6 +4,7 @@ I'm a Software Engineer and Medical Doctor.
 I'm currently working at [Vektor](https://vektor.finance/) as a Smart Contract Engineer Engineer.
 
 Here are some of the Open Source Projects I've worked on:
+- [GymLive](https://github.com/abdullathedruid/gym_live) A fitness tracking tool built as a progressive web app
 - [Vyper Compiler](https://github.com/vyperlang/vyper/pull/2593) Implementation of Storage Layout Overrides
 - [Perpetual Protocol Advanced Order Types](https://github.com/perpfutui/perpetual-limit-orders) Deployed smart contracts to enable advanced order types on Perpetual Protocol V1
 - [Perpetual Protocol Trade History](https://github.com/abdullathedruid/perp_csv) Flask web-app which fetches a user's trading history
