@@ -3,7 +3,7 @@
 I'm a Software Engineer and Medical Doctor. 
 I'm currently working at [Vektor](https://vektor.finance/) as a Smart Contract Engineer Engineer.
 
-I occasionally write articles on my [blog](https://abdullathedruid.github.io/).
+I have written an article on decentralised derivatives at [Deribit Insights](https://insights.deribit.com/market-research/the-quest-for-perp-amms/) and occasionally write on [my blog](https://abdullathedruid.github.io/).
 
 Here are some of the Open Source Projects I've worked on:
 - [GymLive](https://github.com/abdullathedruid/gym_live) A fitness tracking tool built as a progressive web app
